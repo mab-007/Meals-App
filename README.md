@@ -11,12 +11,12 @@
 <img src="https://user-images.githubusercontent.com/42892285/103341338-b071a400-4aac-11eb-8f08-7597d6e22bcf.jpg" width="250" height="400"/>
  </div>
  <br>
-Create an android app to select desired meals and know the detail of the respected recipie.
+<b>Create an android app to select desired meals and know the detail of the respected recipie.</b>
 <br>
-<b>Used<br>
-React-Native<br>
-React-Navigation<br>
-React-Redux<br></b>
+1. Used<br>
+2. React-Native<br>
+3. React-Navigation<br>
+4. React-Redux<br>
 
 <br>
 

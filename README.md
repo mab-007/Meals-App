@@ -1,7 +1,7 @@
 # Meals-App
-Create an android app to select desired meals and know the detail of the respected recipie
+Create an android app to select desired meals and know the detail of the respected recipie.
 <br>
-Used
-React-Native
-React-Navigation
-React-Redux
+<b>Used<br>
+React-Native<br>
+React-Navigation<br>
+React-Redux<br></b>

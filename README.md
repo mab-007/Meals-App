@@ -1,5 +1,5 @@
 # Meals-App
-<img src="https://user-images.githubusercontent.com/42892285/103341174-2c1f2100-4aac-11eb-8d00-dac1d0075424.jpg" width=400px width="100" height="100"/>
+<img src="https://user-images.githubusercontent.com/42892285/103341174-2c1f2100-4aac-11eb-8d00-dac1d0075424.jpg" width=400px width="80" height="400"/>
 ![Screenshot_20201228-193552_Expo 1](https://user-images.githubusercontent.com/42892285/103341227-5670de80-4aac-11eb-8ede-6b81d23395f1.jpg)
 ![Screenshot_20201228-193616_Expo 1](https://user-images.githubusercontent.com/42892285/103341242-64266400-4aac-11eb-8867-859418bebcec.jpg)
 ![Screenshot_20201229-193420_Expo 1](https://user-images.githubusercontent.com/42892285/103341272-799b8e00-4aac-11eb-8f05-6cb360dff866.jpg)

@@ -1,5 +1,5 @@
 # Meals-App
-<b>Screenshots</b?
+<b>Screenshots</b>
 <div>
 <img src="https://user-images.githubusercontent.com/42892285/103341174-2c1f2100-4aac-11eb-8d00-dac1d0075424.jpg" width=400px width="5" height="600"/>
 <img src="https://user-images.githubusercontent.com/42892285/103341227-5670de80-4aac-11eb-8ede-6b81d23395f1.jpg" width=400px width="5" height="600"/>
